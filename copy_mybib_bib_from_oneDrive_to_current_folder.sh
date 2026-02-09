@@ -1,0 +1,1 @@
+cp /Users/karl-heinzkrachenfels/Library/CloudStorage/OneDrive-FreigegebeneBibliotheken–oneDrive/texdoku/mybib.bib .
