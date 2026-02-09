@@ -11,4 +11,4 @@ The paper analyzes the performance of different seq2seq models.
 It also analyzes the attention masks that correspond to the different rules of the grammar.
 
 ## The paper
-Link: [TranslitSeq2SeqAttention.pdf](doc/paper/TranslitSeq2SeqAttention.pdf)
+Link: [TranslitSeq2SeqAttention.pdf](doc/TranslitSeq2SeqAttention.pdf)
